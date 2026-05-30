@@ -1,0 +1,1 @@
+//1. Temperature of a city in degrees Celsius: 25.5
